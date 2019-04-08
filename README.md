@@ -40,7 +40,10 @@ Given current version of Tensorflow was used, the Tensorflow in the Workspace ha
 ```
 pip install --upgrade tensorflow
 ```
-
+(also included in the requirements.txt file):
+```
+pip install -r requirements.txt
+```
 
 ### Ubuntu and ROS Installation
 
@@ -99,7 +102,10 @@ Given current version of Tensorflow was used, the Tensorflow in the Workspace ha
 ```
 pip install --upgrade tensorflow
 ```
-
+(also included in the requirements.txt file):
+```
+pip install -r requirements.txt
+```
 
 ### Traffic Light Model Training Assumption
 
