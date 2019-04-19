@@ -141,7 +141,7 @@ In total, the input data structure was the following:
 The training process was performed:
 - for all data in the first 2000 steps
 - on simulator images ONLY in the next 2000 steps, since it was observed that the model loses ability to generalize in the simulator when the training data is mixed with the Bosh dataset.
-
+- for all data in the following 6000 steps
 
 ### Tensorflow API Installation and Training
 
